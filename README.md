@@ -1,2 +1,2 @@
-# blog.pentacles.xyz
+# myblog
 个人博客
